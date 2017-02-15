@@ -1,7 +1,7 @@
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+title:              Les Éditions Uruk
+bio:                'Maison d'édition indépendante et impliquée'
+description:        "Les recueils publiés par les Éditions Uruk se veulent comme un moyen d'épanouissement par la littérature chez ceux qui n'envisageait même pas l'écriture."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -39,7 +39,7 @@ disqus_shortname:   taylantatli
 #bing-verify:
 #email:
 twitter:            username
-facebook:           username
+facebook:           leseditionsuruk
 github:             username
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
